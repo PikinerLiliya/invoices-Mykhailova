@@ -1,0 +1,7 @@
+export const GET_INVOICES = 'GET_INVOICES';
+export const SET_CURRENT_INVOICE = 'SET_CURRENT_INVOICES';
+
+export const SET_INVOICE_ROWS = 'SET_INVOICE_ROWS';
+
+export const GET_CUSTOMERS = 'GET_CUSTOMERS';
+export const GET_PRODUCTS = 'GET_PRODUCTS';
